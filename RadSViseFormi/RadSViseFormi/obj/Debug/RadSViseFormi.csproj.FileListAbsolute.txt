@@ -1,0 +1,11 @@
+C:\Users\Učenik07\source\repos\RadSViseFormi\RadSViseFormi\obj\Debug\RadSViseFormi.csprojAssemblyReference.cache
+C:\Users\Učenik07\source\repos\RadSViseFormi\RadSViseFormi\obj\Debug\RadSViseFormi.Properties.Resources.resources
+C:\Users\Učenik07\source\repos\RadSViseFormi\RadSViseFormi\obj\Debug\RadSViseFormi.UnosNovogStudenta.resources
+C:\Users\Učenik07\source\repos\RadSViseFormi\RadSViseFormi\obj\Debug\RadSViseFormi.csproj.GenerateResource.cache
+C:\Users\Učenik07\source\repos\RadSViseFormi\RadSViseFormi\obj\Debug\RadSViseFormi.csproj.CoreCompileInputs.cache
+C:\Users\Učenik07\source\repos\RadSViseFormi\RadSViseFormi\bin\Debug\RadSViseFormi.exe.config
+C:\Users\Učenik07\source\repos\RadSViseFormi\RadSViseFormi\bin\Debug\RadSViseFormi.exe
+C:\Users\Učenik07\source\repos\RadSViseFormi\RadSViseFormi\bin\Debug\RadSViseFormi.pdb
+C:\Users\Učenik07\source\repos\RadSViseFormi\RadSViseFormi\obj\Debug\RadSViseFormi.FRMStudenti.resources
+C:\Users\Učenik07\source\repos\RadSViseFormi\RadSViseFormi\obj\Debug\RadSViseFormi.exe
+C:\Users\Učenik07\source\repos\RadSViseFormi\RadSViseFormi\obj\Debug\RadSViseFormi.pdb
